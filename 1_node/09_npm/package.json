@@ -1,11 +1,10 @@
 {
   "name": "09_npm",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "bin": {
-    "computed": "./bin/computed.js",
-    "c": "./bin/computed.js"
+    "computed": "bin/computed.js",
+    "c": "bin/computed.js"
   },
   "scripts": {
     "computed": "node ./bin/computed.js",
@@ -13,5 +12,8 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
 }
