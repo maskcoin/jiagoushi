@@ -1,0 +1,17 @@
+{
+  "name": "22.cookie-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.cookie.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "jwt-simple": "^0.5.6",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-session": "^6.1.0",
+    "uuid": "^8.3.2"
+  }
+}

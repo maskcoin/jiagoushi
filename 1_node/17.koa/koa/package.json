@@ -1,0 +1,9 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/application.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

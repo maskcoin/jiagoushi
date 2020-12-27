@@ -1,0 +1,12 @@
+{
+  "name": "17.koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
